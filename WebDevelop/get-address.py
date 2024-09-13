@@ -9,4 +9,4 @@ for i in range(len(macHex))[::2]:
     mac.append(macHex[i:i+2])
 mac = ':'.join(mac)
 print('IP:', ip)
-print('MAC:', mac)
+print('MAC:', mac.upper())

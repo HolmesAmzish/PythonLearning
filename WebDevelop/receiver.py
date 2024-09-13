@@ -1,6 +1,6 @@
 """
-@brief: UDP client socket program
-@date: 2024-09-13
+brief: UDP client socket program
+date: 2024-09-13
 """
 
 import socket
