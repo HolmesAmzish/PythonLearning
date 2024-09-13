@@ -1,5 +1,5 @@
 """
-@brief: client UDP socket program
+@brief: UDP client socket program
 @date: 2024-09-13
 """
 
